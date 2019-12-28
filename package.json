@@ -1,5 +1,5 @@
 {
-  "name": "3rddev-vue-paginate",
+  "name": "data-driven-vue-paginator",
   "description": "Data Driven Vue Pagination Component",
   "version": "0.1.0",
   "files": [
@@ -28,7 +28,7 @@
     "pagination",
     "javascript"
   ],
-  "author": "Obapelumi",
+  "author": "Obapelumi <obapelumi.o@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Obapelumi/Vue-Data-Driven-Pagination/issues"
